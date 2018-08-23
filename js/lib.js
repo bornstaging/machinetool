@@ -9,8 +9,8 @@ $(document).ready(function(){
     var array = [
         { sName:"spindle", pName:"SPINDLE HEAD",    pModel: "BT40/THROUGH-SPINDLE",     pId:"27M10A", pType:"STANDARD", pdfLink:"pdf/27M-1204F-0611-R01-(a51)_in_USA-(1)-19-26.pdf" },
         { sName:"spindle", pName:"SPINDLE HEAD",    pModel: "HSK63/THROUGH-SP.",        pId:"27M11A", pType:"STANDARD AND HIGH SPEED", pdfLink:"pdf/27M-1204F-0611-R01-(a51)_in_USA-(1)-27-34.pdf" },
-        { sName:"spindle", pName:"SPINDLE HEAD",    pModel: "BT40/THROUGH-SPINDLE",     pId:"27M12A", pType:"HIGH POWER", pdfLink:"pdf/27M-1204F-0611-R01-(a51)_in_USA-(1)-35-42.pdf" },
-        { sName:"spindle", pName:"SPINDLE HEAD",    pModel: "HSK63/THROUGH-SPINDLE",    pId:"27M13A", pType:"HIGH POWER", pdfLink:"pdf/27M-1204F-0611-R01-(a51)_in_USA-(1)-43-50.pdf" },
+        { sName:"spindle", pName:"SPINDLE HEAD",    pModel: "BT40/THROUGH-SPINDLE",     pId:"27M12A", pType:"HIGH POWER", pdfLink:"pdf/27M-1204F-0611-R01-(a51)_in_USA-(1)-19-26.pdf" },
+        { sName:"spindle", pName:"SPINDLE HEAD",    pModel: "HSK63/THROUGH-SPINDLE",    pId:"27M13A", pType:"HIGH POWER", pdfLink:"pdf/27M-1204F-0611-R01-(a51)_in_USA-(1)-27-34.pdf" },
         /*{ sName:"spindle", pName:"COLUMN",          pModel: "COLUMN",                   pId:"27M20B", pType:"", pdfLink:"27M-1204F-0611-R01-(a51)_in_USA-(1)-51-53.pdf" },
         { sName:"spindle", pName:"TOOL MAGAZINE",   pModel: "TOOL MAGAZINE(A219)",      pId:"27M68A", pType:"", pdfLink:"27M-1204F-0611-R01-(a51)_in_USA-(1)-113-132.pdf" },
         { sName:"spindle", pName:"BED",             pModel: "BED",                      pId:"27M30B", pType:"", pdfLink:"27M-1204F-0611-R01-(a51)_in_USA-(1)-54-57.pdf" },
