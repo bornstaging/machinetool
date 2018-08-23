@@ -1,0 +1,1133 @@
+﻿{
+  "document": {
+    "page": {
+      "@index": "0",
+      "row": [
+        {
+          "column": [
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "17.0",
+                "@color": "#EC008C",
+                "@x": "826",
+                "@y": "35",
+                "@width": "53",
+                "@height": "17",
+                "#text": "LEGEND"
+              }
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "24.0",
+                "@color": "#FFFFFF",
+                "@x": "189",
+                "@y": "48",
+                "@width": "79",
+                "@height": "24",
+                "#text": "Cadet®"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "24.0",
+                "@color": "#FFFFFF",
+                "@x": "445",
+                "@y": "48",
+                "@width": "85",
+                "@height": "24",
+                "#text": "Chrome"
+              }
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "14.0",
+                "@color": "#EC008C",
+                "@x": "769",
+                "@y": "66",
+                "@width": "168",
+                "@height": "14",
+                "#text": "PAGE 1: AMERICAN STANDARD"
+              }
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "14.0",
+                "@color": "#EC008C",
+                "@x": "760",
+                "@y": "85",
+                "@width": "186",
+                "@height": "14",
+                "#text": "PAGE 2-6: DELTA FAUCET CANADA"
+              }
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "18.0",
+                "@color": "#FFFFFF",
+                "@x": "54",
+                "@y": "102",
+                "@width": "138",
+                "@height": "18",
+                "#text": "Tub and Shower"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "14.0",
+                "@color": "#EC008C",
+                "@x": "790",
+                "@y": "104",
+                "@width": "125",
+                "@height": "14",
+                "#text": "PAGE 7-10: LOTA CORP"
+              }
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "14.0",
+                "@color": "#EC008C",
+                "@x": "784",
+                "@y": "123",
+                "@width": "138",
+                "@height": "14",
+                "#text": "PAGE 11-12: KOHLER LTD"
+              }
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "12.0",
+                "@color": "#888A8D",
+                "@x": "372",
+                "@y": "133",
+                "@width": "35",
+                "@height": "12",
+                "#text": "3\" x 2\""
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "12.0",
+                "@color": "#888A8D",
+                "@x": "360",
+                "@y": "147",
+                "@width": "59",
+                "@height": "12",
+                "#text": "Price Label"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "14.0",
+                "@color": "#EC008C",
+                "@x": "790",
+                "@y": "142",
+                "@width": "126",
+                "@height": "14",
+                "#text": "PAGE 13-29: MOEN INC"
+              }
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "12.0",
+                "@color": "#888A8D",
+                "@x": "248",
+                "@y": "155",
+                "@width": "14",
+                "@height": "12",
+                "#text": "EZ"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "14.0",
+                "@color": "#EC008C",
+                "@x": "776",
+                "@y": "161",
+                "@width": "153",
+                "@height": "14",
+                "#text": "PAGE 30-34: PRICE PFISTER"
+              }
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "12.0",
+                "@color": "#888A8D",
+                "@x": "244",
+                "@y": "169",
+                "@width": "22",
+                "@height": "12",
+                "#text": "Find"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "12.0",
+                "@color": "#7F9397",
+                "@x": "332",
+                "@y": "175",
+                "@width": "115",
+                "@height": "12",
+                "#text": "Article #: 1001036562"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "12.0",
+                "@color": "#7F9397",
+                "@x": "331",
+                "@y": "189",
+                "@width": "117",
+                "@height": "12",
+                "#text": "Model #: 9091512.002"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "10.0",
+                "@x": "519",
+                "@y": "136",
+                "@width": "10",
+                "@height": "82",
+                "#text": "HD2900006_010E"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "14.0",
+                "@color": "#EC008C",
+                "@x": "756",
+                "@y": "180",
+                "@width": "193",
+                "@height": "14",
+                "#text": "PAGE 35-36: AMERICAN STANDARD"
+              }
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "14.0",
+                "@color": "#EC008C",
+                "@x": "810",
+                "@y": "198",
+                "@width": "85",
+                "@height": "14",
+                "#text": "PAGE 37: MOEN"
+              }
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "6.0",
+                "@x": "46",
+                "@y": "272",
+                "@width": "95",
+                "@height": "6",
+                "#text": "HD2900006_ProductCard_7x3.indd"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "6.0",
+                "@x": "146",
+                "@y": "272",
+                "@width": "6",
+                "@height": "6",
+                "#text": "36"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "6.0",
+                "@x": "477",
+                "@y": "272",
+                "@width": "30",
+                "@height": "6",
+                "#text": "2016-12-16"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "6.0",
+                "@x": "512",
+                "@y": "272",
+                "@width": "25",
+                "@height": "6",
+                "#text": "10:26 AM"
+              }
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "14.0",
+                "@color": "#EC008C",
+                "@x": "50",
+                "@y": "295",
+                "@width": "50",
+                "@height": "14",
+                "#text": "ROUND 2"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "14.0",
+                "@color": "#FFFFFF",
+                "@x": "284",
+                "@y": "296",
+                "@width": "105",
+                "@height": "14",
+                "#text": "PRICE PFISTER"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "39",
+                "@y": "316",
+                "@width": "34",
+                "@height": "5",
+                "#text": "Project Name:"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "80",
+                "@y": "316",
+                "@width": "53",
+                "@height": "5",
+                "#text": "Faucet Product Cards"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "195",
+                "@y": "316",
+                "@width": "23",
+                "@height": "5",
+                "#text": "Trim Size:"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "231",
+                "@y": "316",
+                "@width": "22",
+                "@height": "5",
+                "#text": "7\"w x 3\"h"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "281",
+                "@y": "316",
+                "@width": "25",
+                "@height": "5",
+                "#text": "Revision#:"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "322",
+                "@y": "316",
+                "@width": "10",
+                "@height": "5",
+                "#text": "New"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "39",
+                "@y": "325",
+                "@width": "25",
+                "@height": "5",
+                "#text": "File Name:"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "80",
+                "@y": "325",
+                "@width": "75",
+                "@height": "5",
+                "#text": "HD2900006_ProductCard_7x3"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "195",
+                "@y": "325",
+                "@width": "29",
+                "@height": "5",
+                "#text": "Live Margin:"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "231",
+                "@y": "325",
+                "@width": "14",
+                "@height": "5",
+                "#text": "0.125\""
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "281",
+                "@y": "325",
+                "@width": "34",
+                "@height": "5",
+                "#text": "Revision Date:"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "322",
+                "@y": "325",
+                "@width": "69",
+                "@height": "5",
+                "#text": "December 16, 2016 10:25 AM"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "39",
+                "@y": "334",
+                "@width": "21",
+                "@height": "5",
+                "#text": "Docket#:"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "80",
+                "@y": "334",
+                "@width": "17",
+                "@height": "5",
+                "#text": "166409"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "127",
+                "@y": "334",
+                "@width": "21",
+                "@height": "5",
+                "#text": "Initiative:"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "195",
+                "@y": "334",
+                "@width": "15",
+                "@height": "5",
+                "#text": "Bleed:"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "231",
+                "@y": "334",
+                "@width": "14",
+                "@height": "5",
+                "#text": "0.125”"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "281",
+                "@y": "334",
+                "@width": "31",
+                "@height": "5",
+                "#text": "Prepared By:"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "322",
+                "@y": "334",
+                "@width": "7",
+                "@height": "5",
+                "#text": "AD"
+              }
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "39",
+                "@y": "344",
+                "@width": "11",
+                "@height": "5",
+                "#text": "Print"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "118",
+                "@y": "345",
+                "@width": "9",
+                "@height": "4",
+                "#text": "PMS"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "154",
+                "@y": "345",
+                "@width": "9",
+                "@height": "4",
+                "#text": "Cool"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "195",
+                "@y": "344",
+                "@width": "23",
+                "@height": "5",
+                "#text": "Non-Print"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "242",
+                "@y": "345",
+                "@width": "6",
+                "@height": "4",
+                "#text": "Die"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "277",
+                "@y": "345",
+                "@width": "8",
+                "@height": "4",
+                "#text": "Fold"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": ""
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "83",
+                "@y": "347",
+                "@width": "13",
+                "@height": "4",
+                "#text": "CMYK"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "column": [
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "39",
+                "@y": "350",
+                "@width": "20",
+                "@height": "5",
+                "#text": "Colours:"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "118",
+                "@y": "350",
+                "@width": "7",
+                "@height": "4",
+                "#text": "165"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "154",
+                "@y": "350",
+                "@width": "13",
+                "@height": "4",
+                "#text": "Grey 8"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "195",
+                "@y": "350",
+                "@width": "20",
+                "@height": "5",
+                "#text": "Colours:"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "242",
+                "@y": "350",
+                "@width": "8",
+                "@height": "4",
+                "#text": "Line"
+              }
+            },
+            {
+              "text": {
+                "@fontName": "Helvetica",
+                "@fontSize": "5.0",
+                "@color": "#231F20",
+                "@x": "277",
+                "@y": "350",
+                "@width": "8",
+                "@height": "4",
+                "#text": "Line"
+              }
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

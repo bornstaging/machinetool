@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>NIS - PDF to Excel</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<link rel="stylesheet" type="text/css" href="css/styles1.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenMax.min.js"></script>
+<div id="main_wrap">
+	<div class="fullwidth_wrap clear">		
+		<div class="inner_wrap clear">
+			<!-- header sec -->
+			<div class="header"> 
+				<h2>NIS - PDF to Excel</h2>
+			</div>
+			<!-- search bar sec-->
+			<div class="search-bar-row">
+				<div class="machine-name-menu">
+					<a href="javascript:;">Select Single/Multiple JSON file<span></span></a>					 
+				</div>
+				<div class="search-bar">
+					<input type="file" id="files" name="file" multiple  />
+					
+					<div id="list"></div>	
+				</div>
+
+
+			</div>
+			<div class="export">
+					<a href="javascript:;" class="fetch">View list</a>
+				</div>
+			<!-- table sec -->
+			<div class="table-sec">
+				<div class="table-head">
+					<div class="table-product-capacity-col">Name</div>
+					<div class="table-product-capacity-col">Sub Name</div>
+					<div class="table-product-capacity-col">Category</div>
+					<div class="table-product-capacity-col">Code</div>
+					<div class="table-product-capacity-col">Model</div>
+					<div class="table-product-capacity-col">Article</div>
+				</div>
+				<div class="search-content">
+						<span class="placeholder">No results found</span>
+				</div>
+			</div>
+
+
+			<div class="export">
+					<a href="javascript:;" class="excel">Export to .xls</a>
+				</div>		
+
+
+		</div>
+		<!-- footer -->
+		<div class="footer">
+			<div class="inner_wrap clear"> 
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript" src="js/lib1.js"></script>
+</body>
+</html>

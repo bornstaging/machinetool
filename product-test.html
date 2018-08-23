@@ -1,0 +1,44 @@
+<DOCTYPE! html>
+<head>
+<title>Makino</title>
+<link rel="stylesheet" type="text/css" href="css/styles.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+
+
+</head>
+<body>
+ 
+<div id="example1"></div>
+
+
+
+<script type="text/javascript">
+    $('.popup').click(function(){
+        $('.popup-sec').show();
+    });
+    $('.top-pop a').click(function(){
+        $('.popup-sec').hide();
+    });
+</script>
+
+<script src="js/pdfobject.js"></script>
+<script>
+    var options = { 
+        page: '1',
+        pdfOpenParams: { 
+            search: 'Lorem ipsum'
+            }
+        };
+
+    PDFObject.embed("pdf/sample-3pp.pdf", "#example1", options);   
+
+    
+
+</script> 
+
+<script type="text/javascript" src="js/lib.js"></script>
+
+
+
+</body>
+</html>

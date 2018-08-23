@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Makino</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<link rel="stylesheet" type="text/css" href="css/styles.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenMax.min.js"></script>
+<div id="main_wrap">
+	<div class="fullwidth_wrap clear">		
+		<div class="inner_wrap clear">
+			<!-- header sec -->
+			<div class="header">
+				<a href="/"><img src="img/header.png" alt="header"></a>
+			</div>
+			<!-- search bar sec-->
+			<div class="search-bar-row">
+				<div class="machine-name-menu">
+					<a href="javascript:;">Machine/Part ID <span></span></a>					 
+				</div>
+				<div class="search-bar">
+					<input type="text" name="spindle" class="" placeholder="Search by Machine name" id="main-search">
+					<!--a href="javascript:;"><img src="img/search-bar-button.png" alt="search button"></a-->
+				</div>
+			</div>
+			<!-- table sec -->
+			<div class="table-sec">
+				<div class="table-head">
+					<div class="table-product-name-col">Product name</div>
+					<div class="table-product-id-col">Product ID</div>
+					<div class="table-product-capacity-col">Capacity</div>
+				</div>
+				<div class="search-content">
+						<span class="placeholder">No results found</span>
+				</div>
+			</div>			
+		</div>
+		<!-- footer -->
+		<div class="footer">
+			<div class="inner_wrap clear">
+				<img src="img/footer.png" alt="footer">
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript" src="js/lib.js"></script>
+</body>
+</html>
